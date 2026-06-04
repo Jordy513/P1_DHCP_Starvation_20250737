@@ -355,7 +355,7 @@ R1# show ip dhcp binding
 
 🎥 **[Ver demostración en YouTube](https://youtu.be/mLILvTZ_pBA)**
 
-**Duración:** X:XX minutos
+**Duración:** 5:03
 
 **Contenido del video:**
 - ✅ Topología visible con nombre y matrícula
